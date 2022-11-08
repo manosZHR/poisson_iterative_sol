@@ -1,4 +1,4 @@
-%clear;clc
+clear;clc
 %% Mesh construction
 IM=input('give number of nodes in x direction: ');
 JM=input('give number of nodes in y direction: ');
